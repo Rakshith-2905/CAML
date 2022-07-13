@@ -1,5 +1,5 @@
 # CAML (Contrastive Knowledge Augmented Meta-learning)
-
+Submitted for review at WACV 2023
 ## Data
 Plain-Multi and Art-Multi are released in [Google Drive](https://drive.google.com/drive/folders/1I35LjOO8tRCb8fevpxEZJdYZiIZWRLz6?usp=sharing)
 
